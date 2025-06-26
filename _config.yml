@@ -195,6 +195,10 @@ exclude:
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
+  - pages/teaching.md
+  - pages/repositories.md
+  - pages/projects.md
+  - pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
