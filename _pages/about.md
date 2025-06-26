@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69'>News deserts</a>. NLP. Data journalism. R and Python. <a href='https://frabjous-klepon-c65fee.netlify.app/'>Local news</a>. Computational social science.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -19,16 +19,17 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a <b>computational journalism Doctoral Researcher</b> at the newly founded <b>Surrey Institute for People-Centred AI</b>. My PhD focuses on measuring <b>spatial variations in news coverage in the UK</b> to understand the robustness of local media coverage across the country, and how ownership consolidation affects media diversity and relevance - and whether media diversity and relevance affect democratic engagement. My primary research methods are <b>text mining (including ML), and causal inference</b>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have worked as a Data Architect at the Public Interest News Foundation (PINF), designing and maintaining their local news outlets database, as well as researching the data and <a href="https://www.publicinterestnews.org.uk/local-news-map-report-2024">writing about this</a>.
+
+I have also worked as a <b>data journalist</b> at <a href="www.sheldon.studio">Sheldon.studio</a> and at <a href="www.datajournalism.com">DataJournalism.com</a>. At DataJournalism.com, I have created, analysed, visualised, and digitally presented <b>the State of Data Journalism 2021, 2022, and 2023</b> surveys. At Sheldon.studio, I was the principal data analyst, chart chooser, and content writer for <a href="https://disableddata.fightthestroke.org/">Disabled Data</a>, a project that shed light on the difficulties surrounding availability of data on people with disabilities in Italy, and on <a href = "https://data.europa.eu/apps/eusanctionstracker/">The Sanction Tracker</a> for <a href="https://data.europa.eu/en">data.europa.eu</a>.
