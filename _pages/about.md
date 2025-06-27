@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69'>News deserts</a>. NLP. Data journalism. R and Python. <a href='https://frabjous-klepon-c65fee.netlify.app/'>Local news</a>. Computational social science.
+subtitle: <a href='https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69'>Computational Journalism Researcher</a> | Data Architect | <a href='https://frabjous-klepon-c65fee.netlify.app/'>Author</a>.
 
 profile:
   align: right
@@ -23,10 +23,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+    
+I am a <strong>computational journalism Doctoral Researcher</strong> at the <a href="#">Surrey Institute for People-Centred AI</a>. My research combines <strong>advanced text mining, machine learning, and causal inference</strong> to map spatial variations in news coverage and measure the impact of ownership patterns on media diversity.
+    
+As <strong>data architect</strong> at the <a href="https://www.publicinterestnews.org.uk">Public Interest News Foundation</a>, I designed and maintain the UK's most comprehensive local news outlets database while producing  <a href="https://www.publicinterestnews.org.uk/local-news-map-report-2024">industry-leading research reports</a> commissioned by the Department for Culture, Media and Sport to inform policy discussions about media sustainability and democratic access to information.
+    
+I have <strong>authored multiple peer-reviewed publications</strong> and <strong>led the annual State of Data Journalism Survey</strong> for the European Journalism Centre—the field's most comprehensive global industry analysis. My research has been featured at top-tier conferences including ICWSM, the International Journalism Festival, and Computation + Journalism.
+    
+Previously, I worked as a <strong>data journalist</strong> at <a href="https://www.sheldon.studio">Sheldon.studio</a> and <a href="https://www.ejc.net">the European Journalism Centre</a>, where I created award-worthy projects including <a href="https://disableddata.fightthestroke.org/">Disabled Data</a> (highlighting data accessibility issues in Italy) and <a href = "https://data.europa.eu/apps/eusanctionstracker/">The Sanction Tracker</a> for the European Data Portal. 
 
+I specialise in <strong>R, Python, NLP, and computational social science methods</strong> that reveal hidden patterns in media landscapes.
+    
 
-I am a <b>computational journalism Doctoral Researcher</b> at the newly founded <b>Surrey Institute for People-Centred AI</b>. My PhD focuses on measuring <b>spatial variations in news coverage in the UK</b> to understand the robustness of local media coverage across the country, and how ownership consolidation affects media diversity and relevance - and whether media diversity and relevance affect democratic engagement. My primary research methods are <b>text mining (including ML), and causal inference</b>.
-
-I have worked as a Data Architect at the Public Interest News Foundation (PINF), designing and maintaining their local news outlets database, as well as researching the data and <a href="https://www.publicinterestnews.org.uk/local-news-map-report-2024">writing about this</a>.
-
-I have also worked as a <b>data journalist</b> at <a href="www.sheldon.studio">Sheldon.studio</a> and at <a href="www.datajournalism.com">DataJournalism.com</a>. At DataJournalism.com, I have created, analysed, visualised, and digitally presented <b>the State of Data Journalism 2021, 2022, and 2023</b> surveys. At Sheldon.studio, I was the principal data analyst, chart chooser, and content writer for <a href="https://disableddata.fightthestroke.org/">Disabled Data</a>, a project that shed light on the difficulties surrounding availability of data on people with disabilities in Italy, and on <a href = "https://data.europa.eu/apps/eusanctionstracker/">The Sanction Tracker</a> for <a href="https://data.europa.eu/en">data.europa.eu</a>.
