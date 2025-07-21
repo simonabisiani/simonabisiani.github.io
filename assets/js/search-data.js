@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_Simona_Bisiani_June25.pdf";
+            window.location.href = "/assets/pdf/CV__July_2025_.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
