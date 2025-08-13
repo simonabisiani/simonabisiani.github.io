@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
+  },{id: "nav-research-outputs",
+          title: "research outputs",
           description: "For most up-to-date list of my publications, please visit my Google Scholar profile.",
           section: "Navigation",
           handler: () => {
