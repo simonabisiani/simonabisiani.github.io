@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_Simona_Bisiani_June25.pdf
+permalink: /assets/pdf/CV__July_2025_.pdf
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV_Simona_Bisiani_June25.pdf # you can also use external links here
+cv_pdf: CV__July_2025_.pdf
 description: 
 toc:
   sidebar: left
