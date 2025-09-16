@@ -95,6 +95,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-presenting-a-paper-on-work-carried-out-for-the-public-interest-news-foundation-financed-by-the-department-for-culture-media-and-sport-on-how-to-automate-the-tracking-of-existing-local-media-outlets-in-the-uk-at-dh-conf-in-lisbon-portugal",
           title: 'I am presenting a paper on work carried out for the Public Interest...',
           description: "",
+          section: "News",},{id: "news-journal-article-acceptance-towards-efficient-and-accessible-geoparsing-of-uk-local-media-introduces-new-ai-methods-for-extracting-geographical-data-from-local-news-featured-in-computational-humanities-research",
+          title: 'Journal article acceptance: “Towards Efficient and Accessible Geoparsing of UK Local Media” introduces...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
