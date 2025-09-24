@@ -98,6 +98,9 @@ ninja.data = [{
           section: "News",},{id: "news-journal-article-acceptance-towards-efficient-and-accessible-geoparsing-of-uk-local-media-introduces-new-ai-methods-for-extracting-geographical-data-from-local-news-featured-in-computational-humanities-research",
           title: 'Journal article acceptance: “Towards Efficient and Accessible Geoparsing of UK Local Media” introduces...',
           description: "",
+          section: "News",},{id: "news-conference-paper-acceptance-mapping-news-geography-a-computational-framework-for-classifying-local-media-through-geographic-coverage-patterns-generates-a-data-driven-typology-of-subnational-news-outlets-in-the-uk-using-the-spatial-properties-of-their-coverage-i-will-present-this-work-in-december-at-the-computational-humanities-research-conference-in-luxembourg",
+          title: 'Conference paper acceptance: “Mapping News Geography: A Computational Framework for Classifying Local Media...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
