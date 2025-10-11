@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69'>Computational Journalism Researcher</a> | Data Architect | <a href='https://frabjous-klepon-c65fee.netlify.app/'>Author</a>.
+subtitle: <a href='https://invited-dress-edc.notion.site/Home-7a1dee804e3f4fedb89205b468253f69'>Computational Journalism Researcher</a> | Data Architect | <a href='https://simonabisiani.substack.com/'>Writer</a>.
 
 profile:
   align: right
