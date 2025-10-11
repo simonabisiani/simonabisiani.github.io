@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV__July_2025_.pdf";
+            window.location.href = "/assets/pdf/CV__September_2025_.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -100,6 +100,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-conference-paper-acceptance-mapping-news-geography-a-computational-framework-for-classifying-local-media-through-geographic-coverage-patterns-generates-a-data-driven-typology-of-subnational-news-outlets-in-the-uk-using-the-spatial-properties-of-their-coverage-i-will-present-this-work-in-december-at-the-computational-humanities-research-conference-in-luxembourg",
           title: 'Conference paper acceptance: “Mapping News Geography: A Computational Framework for Classifying Local Media...',
+          description: "",
+          section: "News",},{id: "news-research-report-out-challenges-and-opportunities-for-uk-local-media-insights-from-academic-research-written-with-prof-agnes-gulyas-at-canterbury-christ-church-university-provides-recommendations-to-local-media-stakeholders-based-on-findings-from-academic-literature",
+          title: 'Research Report out: Challenges and opportunities for UK local media: Insights from academic...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
