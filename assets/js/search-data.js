@@ -104,7 +104,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-invited-to-attend-the-data-methods-initiative-s-first-in-person-workshop-which-will-take-place-jönköping-international-business-school-on-november-27th-and-28th",
           title: 'I have been invited to attend the Data Methods Initiative’s first in-person workshop,...',
           description: "",
-          section: "News",},{id: "news-conference-paper-acceptance-mapping-news-geography-a-computational-framework-for-classifying-local-media-through-geographic-coverage-patterns-generates-a-data-driven-typology-of-subnational-news-outlets-in-the-uk-using-the-spatial-properties-of-their-coverage-i-am-presenting-this-work-on-december-12th-at-the-computational-humanities-research-conference-luxembourg",
+          section: "News",},{id: "news-conference-paper-acceptance-mapping-news-geography-a-computational-framework-for-classifying-local-media-through-geographic-coverage-patterns-generates-a-data-driven-typology-of-subnational-news-outlets-in-the-uk-using-the-spatial-properties-of-their-coverage-i-am-presenting-this-work-at-the-computational-humanities-research-conference-luxembourg-slides-here",
           title: 'Conference paper acceptance: “Mapping News Geography: A Computational Framework for Classifying Local Media...',
           description: "",
           section: "News",},{id: "news-the-uk-local-news-report-2025-i-have-researched-and-produced-for-the-public-interest-news-foundation-pinf-is-now-out-this-is-the-second-such-report-i-produce-for-pinf-and-it-provides-a-current-snapshot-of-the-uk-local-news-ecosystem-including-news-deserts-and-statistical-analysis-of-sociodemographic-correlates-of-local-news-provision",
