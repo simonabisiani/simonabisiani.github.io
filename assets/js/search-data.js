@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV__February_2026_.pdf";
+            window.location.href = "/assets/pdf/CV__August_2026_.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -109,6 +109,21 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-the-uk-local-news-report-2025-i-have-researched-and-produced-for-the-public-interest-news-foundation-pinf-is-now-out-this-is-the-second-such-report-i-produce-for-pinf-and-it-provides-a-current-snapshot-of-the-uk-local-news-ecosystem-including-news-deserts-and-statistical-analysis-of-sociodemographic-correlates-of-local-news-provision",
           title: 'The ‘UK Local News Report 2025’ I have researched and produced for the...',
+          description: "",
+          section: "News",},{id: "news-the-uk-government-cites-my-research-in-conjunction-with-the-launch-of-a-local-news-fund-as-part-of-the-new-amplify-the-local-media-action-plan",
+          title: 'The UK Government cites my research in conjunction with the launch of a...',
+          description: "",
+          section: "News",},{id: "news-i-am-travelling-to-washington-dc-to-present-my-work-at-the-2026-local-journalism-researcher-workshop",
+          title: 'I am travelling to Washington DC to present my work at the 2026...',
+          description: "",
+          section: "News",},{id: "news-i-am-giving-an-invited-talk-at-the-impresso-seminar-2026-latest-developments-in-press-history-research",
+          title: 'I am giving an invited talk at the Impresso Seminar 2026: Latest Developments...',
+          description: "",
+          section: "News",},{id: "news-i-am-travelling-to-cape-town-to-present-my-research-at-the-76th-annual-international-communication-association-ica-conference",
+          title: 'I am travelling to Cape Town to present my research at the 76th...',
+          description: "",
+          section: "News",},{id: "news-a-major-milestone-i-submit-my-phd-thesis-for-examination-today-furthermore-a-new-journal-article-of-mine-is-out-after-peer-review-with-no-corrections-https-journals-sagepub-com-doi-10-1177-14648849261474910",
+          title: 'A major milestone: I submit my PhD thesis for examination today! Furthermore, a...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
