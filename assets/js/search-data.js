@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV__August_2026_.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -124,6 +124,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-a-major-milestone-i-submit-my-phd-thesis-for-examination-today-furthermore-a-new-journal-article-of-mine-is-out-after-peer-review-with-no-corrections-https-journals-sagepub-com-doi-10-1177-14648849261474910",
           title: 'A major milestone: I submit my PhD thesis for examination today! Furthermore, a...',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-nordren-graduate-summer-school-at-lund-university-the-programme-focused-on-disinformation-and-power-exploring-theories-and-strategies-for-understanding-and-mitigating-the-risks-and-threats-associated-with-disinformation-and-conspiracism",
+          title: 'I attended the Nordren Graduate Summer School at Lund University! The programme focused...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
