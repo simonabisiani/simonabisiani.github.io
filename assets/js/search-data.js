@@ -131,6 +131,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-new-article-local-in-name-only-the-impact-of-ownership-and-newsroom-proximity-on-local-and-original-news-coverage-has-just-been-published-in-journalism-studies",
           title: 'My new article, “Local in Name Only? The Impact of Ownership and Newsroom...',
           description: "",
+          section: "News",},{id: "news-i-am-pleased-to-share-that-i-have-successfully-passed-my-phd-thesis-viva-defense-pending-minor-corrections-one-month-which-have-now-been-submitted-to-my-examiner-committee",
+          title: 'I am pleased to share that I have successfully passed my PhD thesis...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
