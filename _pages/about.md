@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.surrey.ac.uk/people/simona-bisiani'>Computational Journalism Researcher</a> | Data Architect | <a href='https://simonabisiani.substack.com/'>Writer</a>.
+subtitle: <a href='https://www.surrey.ac.uk/people/simona-bisiani'>Computational Journalism Researcher</a> | <a href='https://map.publicinterestnews.org.uk/'>Data Architect & Web Developer</a> | <a href='https://simonabisiani.substack.com/'>Writer</a>.
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
 
 <p>I am currently a doctoral researcher in computational journalism at the <a href="https://www.surrey.ac.uk/artificial-intelligence">Surrey Institute for People-Centred AI</a>. My research develops computational methods for mapping variations in local news coverage and evaluating the effects of media ownership on diversity and access to information. I have first-authored a number of peer-reviewed journal articles appearing in Q1 journals and my research has appeared at top-tier conference venues including ICA, ICWSM, Computation + Journalism, CHR, and the International Journalism Festival.</p>
 
-<p>I am also Data Architect and Researcher at the <a href="https://www.publicinterestnews.org.uk">Public Interest News Foundation</a>, where I designed and maintain a comprehensive database of UK local news outlets. I use this infrastructure to produce research and intelligence for industry and policy audiences on the state of the local news sector in the UK.</p>
+<p>I am also <a href="https://map.publicinterestnews.org.uk/">Data Architect & Web Developer</a> and Researcher at the <a href="https://www.publicinterestnews.org.uk">Public Interest News Foundation</a>, where I designed and maintain a comprehensive database of UK local news outlets. I use this infrastructure to produce research and intelligence for industry and policy audiences on the state of the local news sector in the UK.</p>
 
 <p>Previously, I worked as a data journalist at <a href="https://www.sheldon.studio">Sheldon.studio</a>, where I worked on projects including <a href="https://disableddata.fightthestroke.org/">Disabled Data</a> and the <a href="https://data.europa.eu/apps/eusanctionstracker/">EU Sanctions Tracker</a>. I have also led the European Journalism Centre’s annual <strong>State of Data Journalism Survey</strong>.</p>
 
